@@ -24,6 +24,7 @@
   <img src="https://img.icons8.com/ios/100/4a90e2/react-native.png"/>&nbsp;
   <img src="https://img.icons8.com/ios-filled/100/4a90e2/php-logo.png"/>&nbsp;
   <img src="https://img.icons8.com/color/96/4a90e2/python.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/96/4a90e2/mongodb.png"/>
 <p>
 
 <br/>
