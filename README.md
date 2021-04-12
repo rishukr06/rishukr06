@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rishukr06" > </p>
 
- <h2 align="center"> ☕️ Connect with me </h2>
+ <h2 align="center"> ☕️ Let's Connect  </h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/rishu-kumar-9a39ab148/"> LinkedIn </a> |
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100007999032053"> Fackbook </a> |
