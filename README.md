@@ -3,7 +3,7 @@
 <h3 align="center"> 👨‍💻 Software Engineer <a href='https://rentomojo.com'> @Rentomojo </a> <h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishukr06" > </p>
+ <img src="https://github-profile-trophy.vercel.app/?username=rishukr06&margin-w=15&title=Commit,Repositories,Stars,Followers,PullRequest" /> </p>
 
  <h2 align="center"> ☕️ Let's Connect  </h2>
 <p align="center">
