@@ -28,7 +28,7 @@
 
 <br/>
 <p align="right" >
-  Icons imported from <a href="https://icons8.com/"> Icons8 </a>
+  Icons are imported from <a href="https://icons8.com/"> Icons8 </a>
 </p>
 
 <!--- - 👀 I’m interested in ...
