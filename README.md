@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m <a href="https://rishu.engineer/"> @Rishu </a> </h1>
+<h1 align="center"> 👋 Hi, I’m <a href="https://rishu.engineer/"> Rishu </a> </h1>
 
 <h3 align="center"> 👨‍💻 Software Engineer <a href='https://rentomojo.com'> @Rentomojo </a> <h3>
 
