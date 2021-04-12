@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>&nbsp;
   <img src="https://img.icons8.com/color/96/000000/html-5.png"/>&nbsp;
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>&nbsp;
-  <img src="https://img.icons8.com/windows/96/000000/node-js.png"/>&nbsp;
+  <img src="https://img.icons8.com/windows/96/4a90e2/node-js.png"/>&nbsp;
   <img src="https://img.icons8.com/color/96/000000/vue-js.png"/>&nbsp;
   <img src="https://img.icons8.com/ios/100/4a90e2/react-native.png"/>&nbsp;
   <img src="https://img.icons8.com/ios-filled/100/4a90e2/php-logo.png"/>&nbsp;
