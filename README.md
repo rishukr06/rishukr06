@@ -8,7 +8,7 @@
  <h2 align="center"> ☕️ Let's Connect  </h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/rishu-kumar-9a39ab148/"> LinkedIn </a> |
-  <a target="_blank" href="https://www.instagram.com/he_is_rishu/"> Instagram </a>
+  <a target="_blank" href="https://www.instagram.com/_this_is_rishu/"> Instagram </a>
 </p>
 
 <br/>
