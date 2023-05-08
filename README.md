@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m <a href="https://rishu.engineer/"> Rishu </a> </h1>
 
-<h3 align="center"> 👨‍💻 Software Engineer <a href='https://rentomojo.com'> @Rentomojo </a> <h3>
+<h3 align="center"> 👨‍💻 Senior Software Engineer <a href='https://rentomojo.com'> @Rentomojo </a> <h3>
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=rishukr06&margin-w=15" /> </p>
@@ -8,7 +8,6 @@
  <h2 align="center"> ☕️ Let's Connect  </h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/rishu-kumar-9a39ab148/"> LinkedIn </a> |
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100007999032053"> Facebook </a> |
   <a target="_blank" href="https://www.instagram.com/he_is_rishu/"> Instagram </a>
 </p>
 
