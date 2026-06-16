@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m <a href="https://rishu.engineer/"> Rishu </a> </h1>
 
-<h3 align="center"> 👨‍💻 Member Of Engineer Team <a href='https://rentomojo.com'> @Rentomojo </a> <h3>
+<h3 align="center"> 👨‍💻 Member Of Engineering Team <a href='https://rentomojo.com'> @Rentomojo </a> <h3>
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=rishukr06&margin-w=15" /> </p>
